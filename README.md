@@ -44,7 +44,7 @@ pip-install-checker/
 
 ```bash
 # GitHubからインストール
-git clone https://github.com/yourusername/pip-license-checker.git
+[git clone https://github.com/yourusername/pip-license-checker.git](https://github.com/oobazense/pip-install-checker)
 cd pip-install-checker
 pip install -e .
 ```
